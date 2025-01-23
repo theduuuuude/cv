@@ -73,5 +73,4 @@ Three different studies of one year (no degrees):
 
 ## **Hobbies**  
 - Exploring and testing emerging technologies in software development.  
-- Contributing to open-source projects and mentoring junior developers.  
 - Linux enthusiast: Running Linux as the primary OS on personal computers.  
